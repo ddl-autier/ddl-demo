@@ -1,4 +1,5 @@
 # Set of predefined variables!
+# Demo only
 
 ag_ct_stack=100
 ag_max_pool=5
