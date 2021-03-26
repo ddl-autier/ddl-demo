@@ -1,4 +1,4 @@
-# Set of predefined variables
+# Set of predefined variables for CICD
 
 ag_ct_stack=100
 ag_max_pool=5
