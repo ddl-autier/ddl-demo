@@ -1,2 +1,2 @@
-#The good old sample by Sylvia Stegna
+#The good old sample by me!
 print ('Hello')
